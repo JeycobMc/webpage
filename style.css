@@ -1,3 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 132, 255);
+    margin: 30px;
+    color: blueviolet#fff;
+    padding: 20px;
+    border: 5px solid rebeccapurple;
+    font-size: 20px;
+}
+
 h1 {
     color: rgb(102, 255, 0);
+}
+h1 {
+    color: rgb(255, 102, 0)!important;
+}
+h1 {
+    color: rgb(119, 0, 255);
+}
+
+#btn {
+    background-color: aqua;
 }
