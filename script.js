@@ -3,6 +3,6 @@ const title = document.getElementById("title");
 
 function hello () {
     console.log("Hello");
-    title.innerText = "Hello";
+    title.innerText = "jeycob haz estructuras";
 }
 btn.addEventListener("click", hello);
